@@ -1,0 +1,11 @@
+.messages {
+  display: flex;
+  flex-direction: column;
+  overflow-y: scroll;
+  scrollbar-width: none;
+  /* height:350px */
+}
+.chatbox{
+background: linear-gradient(to bottom,#99dcf7,#f0a4f8);
+background-color: #f0af4e;
+}

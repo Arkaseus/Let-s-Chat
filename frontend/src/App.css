@@ -1,0 +1,9 @@
+.App{
+       min-height: 100vh;
+       display:flex;
+       background-image: url("./assets/a.jpg");
+  background-size: cover;
+       background-position: center;     
+       width: 100vw;
+       
+}
